@@ -4,7 +4,7 @@ I work as a accounting assisant and a month ago I applied to a great job positio
 
 I desired to learned the basics. The sintaxis... how to create variable, how to perform functions, loops, conditionals, and more. I even wanted to learned how to use its main functions for statistic. This is what this program is about To apply the basic of R and output a statistic function. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xXhUbJcrt4M)
 
 # Development Environment
 
